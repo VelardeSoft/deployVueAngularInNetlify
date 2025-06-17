@@ -7,6 +7,7 @@ ng build --configuration=production
 Al ejecutar dicho comando se creará una carpeta dist, dentro de ello hay otra carpeta browser, ingresar a dicho carpeta y crear el siguiente archivo: 
 
 _redirects  (dentro de browser)
+
 /*    /index.html   200
 
 - Finalmente, arrastra ese archivo browser
